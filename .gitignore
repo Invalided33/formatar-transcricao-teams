@@ -1,0 +1,4 @@
+*.[dD][oO][cC][xX]
+__pycache__/
+*.pyc
+.venv/
